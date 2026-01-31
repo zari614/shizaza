@@ -1,1 +1,2 @@
-# shizaza
+# shizari-game
+
